@@ -1,0 +1,110 @@
+{
+  "adatok": [
+    {
+      "rendelesSzam": "12345",
+      "osszeg": "5000.0",
+      "rendelesDatuma": "2023/11/20",
+      "megrendeloNeve": "Sandor Martin",
+      "megrendeloCime": "Debrecen"
+    },
+    {
+      "rendelesSzam": "87511",
+      "osszeg": "10000.0",
+      "rendelesDatuma": "2022/03/30",
+      "megrendeloNeve": "Vicc Elek",
+      "megrendeloCime": "Debrecen"
+    },
+    {
+      "rendelesSzam": "91169",
+      "osszeg": "3500.0",
+      "rendelesDatuma": "1999/08/11",
+      "megrendeloNeve": "Abrosz Tisztakos",
+      "megrendeloCime": "Debrecen"
+    },
+    {
+      "rendelesSzam": "36042",
+      "osszeg": "999.99",
+      "rendelesDatuma": "2006/05/13",
+      "megrendeloNeve": "Sandor Martin",
+      "megrendeloCime": "London"
+    },
+    {
+      "rendelesSzam": "36042",
+      "osszeg": "5000.0",
+      "rendelesDatuma": "2030/01/25",
+      "megrendeloNeve": "John H. Watson",
+      "megrendeloCime": "Edinburgh"
+    },
+    {
+      "rendelesSzam": "98561",
+      "osszeg": "5000.0",
+      "rendelesDatuma": "2023/03/17",
+      "megrendeloNeve": "Csak Anyos",
+      "megrendeloCime": "Berkley"
+    },
+    {
+      "rendelesSzam": "86512",
+      "osszeg": "15000.0",
+      "rendelesDatuma": "2011/09/27",
+      "megrendeloNeve": "Diszkont Aron",
+      "megrendeloCime": "Belfast"
+    },
+    {
+      "rendelesSzam": "51125",
+      "osszeg": "3549.9",
+      "rendelesDatuma": "1995/09/16",
+      "megrendeloNeve": "Folyekony Szilard",
+      "megrendeloCime": "Belfast"
+    },
+    {
+      "rendelesSzam": "68165",
+      "osszeg": "999.99",
+      "rendelesDatuma": "2016/12/13",
+      "megrendeloNeve": "Cset Elek",
+      "megrendeloCime": "Eastmash"
+    },
+    {
+      "rendelesSzam": "13524",
+      "osszeg": "25000.0",
+      "rendelesDatuma": "1991/01/01",
+      "megrendeloNeve": "Albu Dimitrov Mitica",
+      "megrendeloCime": "Oxley"
+    },
+    {
+      "rendelesSzam": "75162",
+      "osszeg": "49999.0",
+      "rendelesDatuma": "1985/06/22",
+      "megrendeloNeve": "Harci Marci",
+      "megrendeloCime": "Overbury"
+    },
+    {
+      "rendelesSzam": "57612",
+      "osszeg": "12500.45",
+      "rendelesDatuma": "2022/08/14",
+      "megrendeloNeve": "Joo Ivo",
+      "megrendeloCime": "Whiteburn"
+    },
+    {
+      "rendelesSzam": "98615",
+      "osszeg": "3500.0",
+      "rendelesDatuma": "1975/07/08",
+      "megrendeloNeve": "Kaktuszne Cserepes Virag",
+      "megrendeloCime": "Hinddon"
+    },
+    {
+      "rendelesSzam": "99751",
+      "osszeg": "999.99",
+      "rendelesDatuma": "2023/05/13",
+      "megrendeloNeve": "Korm Odon",
+      "megrendeloCime": "Kirmoor"
+    },
+    {
+      "rendelesSzam": "36049",
+      "osszeg": "5000.0",
+      "rendelesDatuma": "2099/02/25",
+      "megrendeloNeve": "Kulo Nora",
+      "megrendeloCime": "Edinburgh"
+    }
+  ]
+}
+

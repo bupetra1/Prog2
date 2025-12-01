@@ -1,0 +1,110 @@
+{
+  "adatok": [
+    {
+      "rendszam": "ABC-123",
+      "tipus": "Croma",
+      "marka": "Fiat",
+      "gyartasDatuma": "2023/11/20",
+      "teljesitmeny": 200
+    },
+    {
+      "rendszam": "UIM-110",
+      "tipus": "Agile",
+      "marka": "Chevrolet",
+      "gyartasDatuma": "2020/10/25",
+      "teljesitmeny": 170
+    },
+    {
+      "rendszam": "KSK-110",
+      "tipus": "Accent",
+      "marka": "Hyundai",
+      "gyartasDatuma": "2014/07/10",
+      "teljesitmeny": 150
+    },
+    {
+      "rendszam": "HKL-008",
+      "tipus": "Accelo",
+      "marka": "Mercedes",
+      "gyartasDatuma": "2019/05/22",
+      "teljesitmeny": 240
+    },
+    {
+      "rendszam": "SMA-503",
+      "tipus": "911 Cabrio",
+      "marka": "Porche",
+      "gyartasDatuma": "2025/02/04",
+      "teljesitmeny": 300
+    },
+    {
+      "rendszam": "ABC-123",
+      "tipus": "Cabriolet",
+      "marka": "Renault",
+      "gyartasDatuma": "2032/04/27",
+      "teljesitmeny": 200
+    },
+    {
+      "rendszam": "KYS-987",
+      "tipus": "Chamade",
+      "marka": "Renault",
+      "gyartasDatuma": "2009/05/10",
+      "teljesitmeny": 230
+    },
+    {
+      "rendszam": "UEF-666",
+      "tipus": "Accord",
+      "marka": "Honda",
+      "gyartasDatuma": "2015/07/10",
+      "teljesitmeny": 215
+    },
+    {
+      "rendszam": "TAX-555",
+      "tipus": "Focus",
+      "marka": "Ford",
+      "gyartasDatuma": "2019/02/11",
+      "teljesitmeny": 190
+    },
+    {
+      "rendszam": "CBA-248",
+      "tipus": "Astra",
+      "marka": "Opel",
+      "gyartasDatuma": "2005/03/19",
+      "teljesitmeny": 250
+    },
+    {
+      "rendszam": "JKL-852",
+      "tipus": "Avanza",
+      "marka": "Toyota",
+      "gyartasDatuma": "2003/09/28",
+      "teljesitmeny": 160
+    },
+    {
+      "rendszam": "UAK-581",
+      "tipus": "Aristo",
+      "marka": "Toyota",
+      "gyartasDatuma": "2002/09/30",
+      "teljesitmeny": 165
+    },
+    {
+      "rendszam": "GHE-175",
+      "tipus": "Atlas",
+      "marka": "Nissan",
+      "gyartasDatuma": "1996/12/15",
+      "teljesitmeny": 1260
+    },
+    {
+      "rendszam": "HEG-147",
+      "tipus": "Cherry",
+      "marka": "Nissan",
+      "gyartasDatuma": "1964/08/21",
+      "teljesitmeny": 140
+    },
+    {
+      "rendszam": "LOT-342",
+      "tipus": "A3",
+      "marka": "Audi",
+      "gyartasDatuma": "2030/07/29",
+      "teljesitmeny": 300
+    }
+  ]
+}
+

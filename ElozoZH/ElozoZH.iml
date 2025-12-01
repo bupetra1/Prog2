@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/AutoJSON" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Elso" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Harmas" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Harmas/inf" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Harmas/inf/unideb" />
+      <excludeFolder url="file://$MODULE_DIR$/src/IO_muveletek" />
+      <excludeFolder url="file://$MODULE_DIR$/src/JSON_beolvasas" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Konyv_JSON" />
+      <excludeFolder url="file://$MODULE_DIR$/src/etel" />
+      <excludeFolder url="file://$MODULE_DIR$/src/etel/json" />
+      <excludeFolder url="file://$MODULE_DIR$/src/inf" />
+      <excludeFolder url="file://$MODULE_DIR$/src/inf/unideb" />
+      <excludeFolder url="file://$MODULE_DIR$/src/inf/unideb/Ruha" />
+      <excludeFolder url="file://$MODULE_DIR$/src/otodik" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../Jackson" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../Jackson" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

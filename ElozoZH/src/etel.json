@@ -1,0 +1,106 @@
+{
+  "adatok": [
+    {
+      "nev": "Gulyasleves",
+      "vonalokod": "4218142162787",
+      "ar": "2000.0",
+      "lejaratDatuma": "03-30-2001",
+      "etelTipus": "egytaletel"
+    },
+    {
+      "nev": "Nyulporkolt",
+      "vonalokod": "3252764779189",
+      "ar": "3000.0",
+      "lejaratDatuma": "09-11-2009",
+      "etelTipus": "foetel"
+    },
+    {
+      "nev": "Szalonnas rantotta",
+      "vonalokod": "1352885938420",
+      "ar": "2499.99",
+      "lejaratDatuma": "03-15-2008",
+      "etelTipus": "foetel"
+    },
+    {
+      "nev": "Krumplisalata",
+      "vonalokod": "9300933818373",
+      "ar": "600.0",
+      "lejaratDatuma": "05-22-2019",
+      "etelTipus": "eloetel"
+    },
+    {
+      "nev": "Cekla",
+      "vonalokod": "2337081537566",
+      "ar": "450.0",
+      "lejaratDatuma": "10-29-1999",
+      "etelTipus": "savanyusag"
+    },
+    {
+      "nev": "Uborkasalata",
+      "vonalokod": "2453078682718",
+      "ar": "600.0",
+      "lejaratDatuma": "07-29-2007",
+      "etelTipus": "eloetel"
+    },
+    {
+      "nev": "Tojassalata",
+      "vonalokod": "2542244146635",
+      "ar": "600.0",
+      "lejaratDatuma": "10-11-2011",
+      "etelTipus": "eloetel"
+    },
+    {
+      "nev": "Kovaszos uborka",
+      "vonalokod": "1993171139156",
+      "ar": "450.0",
+      "lejaratDatuma": "03-10-2021",
+      "etelTipus": "savanyusag"
+    },{
+      "nev": "Tiramisu",
+      "vonalokod": "6982101579512",
+      "ar": "1500.0",
+      "lejaratDatuma": "05-17-2023",
+      "etelTipus": "desszert"
+    },
+    {
+      "nev": "Francia piritos",
+      "vonalokod": "0459882664775",
+      "ar": "2000.0",
+      "lejaratDatuma": "02-05-2011",
+      "etelTipus": "foetel"
+    },{
+      "nev": "Halaszle",
+      "vonalokod": "4218142162787",
+      "ar": "1000.0",
+      "lejaratDatuma": "06-08-2001",
+      "etelTipus": "leves"
+    },{
+      "nev": "Gyumolcsleves",
+      "vonalokod": "5085481212113",
+      "ar": "1000.0",
+      "lejaratDatuma": "09-24-2013",
+      "etelTipus": "leves"
+    },{
+      "nev": "Csontleves",
+      "vonalokod": "3447291712765",
+      "ar": "1000.0",
+      "lejaratDatuma": "04-08-2008",
+      "etelTipus": "leves"
+    },
+    {
+      "nev": "Dobostorta",
+      "vonalokod": "0013037145663",
+      "ar": "1500.0",
+      "lejaratDatuma": "04-04-1985",
+      "etelTipus": "desszert"
+    },
+    {
+      "nev": "Macaron",
+      "vonalokod": "7797346922219",
+      "ar": "1000.0",
+      "lejaratDatuma": "01-01-2099",
+      "etelTipus": "desszert"
+    }
+  ]
+}
+

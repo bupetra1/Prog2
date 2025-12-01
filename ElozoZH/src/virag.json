@@ -1,0 +1,111 @@
+{
+  "adatok": [
+    {
+      "nev": "rozsa",
+      "raktaronLevoMennyiseg": "9",
+      "vagasDatuma": "20/11/2023",
+      "besorolas": "kozepes",
+      "ar": "429"
+    },
+    {
+      "nev": "gerbera",
+      "raktaronLevoMennyiseg": "30",
+      "vagasDatuma": "22/11/2023",
+      "besorolas": "nagy",
+      "ar": "413"
+    },
+    {
+      "nev": "liziantusz",
+      "raktaronLevoMennyiseg": "7",
+      "vagasDatuma": "26/11/2023",
+      "besorolas": "kicsi",
+      "ar": "661"
+    },
+    {
+      "nev": "liliom",
+      "raktaronLevoMennyiseg": "11",
+      "vagasDatuma": "25/11/2023",
+      "besorolas": "kozepes",
+      "ar": "335"
+    },
+    {
+      "nev": "kala",
+      "raktaronLevoMennyiseg": "6",
+      "vagasDatuma": "21/11/2023",
+      "besorolas": "kozepes",
+      "ar": "518"
+    },
+    {
+      "nev": "krizantem",
+      "raktaronLevoMennyiseg": "23",
+      "vagasDatuma": "26/11/2023",
+      "besorolas": "nagy",
+      "ar": "627"
+    },
+    {
+      "nev": "liliom",
+      "raktaronLevoMennyiseg": "21",
+      "vagasDatuma": "20/11/2023",
+      "besorolas": "kozepes",
+      "ar": "729"
+    },
+    {
+      "nev": "amarylisz",
+      "raktaronLevoMennyiseg": "16",
+      "vagasDatuma": "26/11/2023",
+      "besorolas": "kozepes",
+      "ar": "516"
+    },
+    {
+      "nev": "szegfu",
+      "raktaronLevoMennyiseg": "27",
+      "vagasDatuma": "24/11/2023",
+      "besorolas": "nagy",
+      "ar": "889"
+    },
+    {
+      "nev": "rozsa",
+      "raktaronLevoMennyiseg": "30",
+      "vagasDatuma": "27/11/2023",
+      "besorolas": "kicsi",
+      "ar": "463"
+    },
+    {
+      "nev": "gerbera",
+      "raktaronLevoMennyiseg": "17",
+      "vagasDatuma": "22/11/2023",
+      "besorolas": "kozepes",
+      "ar": "498"
+    },
+    {
+      "nev": "orchidea",
+      "raktaronLevoMennyiseg": "20",
+      "vagasDatuma": "25/11/2023",
+      "besorolas": "kozepes",
+      "ar": "602"
+    },
+    {
+      "nev": "inkaliliom",
+      "raktaronLevoMennyiseg": "4",
+      "vagasDatuma": "20/11/2023",
+      "besorolas": "nagy",
+      "ar": "807"
+    },
+    {
+      "nev": "orchidea",
+      "raktaronLevoMennyiseg": "23",
+      "vagasDatuma": "27/11/2023",
+      "besorolas": "kozepes",
+      "ar": "789"
+    },
+    {
+      "nev": "flamingo",
+      "raktaronLevoMennyiseg": "9",
+      "vagasDatuma": "20/11/2023",
+      "besorolas": "nagy",
+      "ar": "865"
+    }
+
+  ]
+}
+

@@ -1,0 +1,125 @@
+{
+  "adatok": [
+    {
+      "cim": "Az elveszett feher konyv",
+      "szerzo": "Cassandra Clare",
+      "kiadasDatuma": "2021.05.19",
+      "oldalszam": "460",
+      "kiado": "Konyvmolykepzo Kiado",
+      "ISBN": "9789631"
+    },
+    {
+      "cim": "A lelekidomar",
+      "szerzo": "Jokai Mor",
+      "kiadasDatuma": "1996.11.06",
+      "oldalszam": "343",
+      "kiado": "Eotvos Kiado",
+      "ISBN": "9632"
+    },
+    {
+      "cim": "Az angyal",
+      "szerzo": "Cassandra Clare",
+      "kiadasDatuma": "2018.09.10",
+      "oldalszam": "467",
+      "kiado": "Konyvmolykepzo Kiado",
+      "ISBN": "9789633"
+    },
+    {
+      "cim": "Tuzroba",
+      "szerzo": "Cassandra Clare",
+      "kiadasDatuma": "2016.08.06",
+      "oldalszam": "69",
+      "kiado": "Konyvmolykepzo Kiado",
+      "ISBN": "978634"
+    },
+    {
+      "cim": "A New York-i intezet csataja",
+      "szerzo": "Cassandra Clare",
+      "kiadasDatuma": "2014.03.01",
+      "oldalszam": "59",
+      "kiado": "Konyvmolykepzo Kiado",
+      "ISBN": "9789635"
+    },
+    {
+      "cim": "A vasproba",
+      "szerzo": "Holly Black",
+      "kiadasDatuma": "2016.02.25",
+      "oldalszam": "339",
+      "kiado": "Konyvmolykepzo Kiado",
+      "ISBN": "9789636"
+    },
+    {
+      "cim": "Harry Potter es a bolcsek kove",
+      "szerzo": "J. K. Rowling",
+      "kiadasDatuma": "2001.02.18",
+      "oldalszam": "285",
+      "kiado": "Animus Kiado",
+      "ISBN": "9637"
+    },
+    {
+      "cim": "Rezkiralysag",
+      "szerzo": "S. A. Chakraborty",
+      "kiadasDatuma": "2019.05.12",
+      "oldalszam": "601",
+      "kiado": "Agave Konyvek",
+      "ISBN": "9789638"
+    },
+    {
+      "cim": "Empire of Storms;",
+      "szerzo": "Sarah J. Maas",
+      "kiadasDatuma": "2019.10.26",
+      "oldalszam": "764",
+      "kiado": "Konyvmolykepzo Kiado",
+      "ISBN": "9789639"
+    },
+    {
+      "cim": "Gergo es az alomfogok",
+      "szerzo": "Boszormenyi Gyula",
+      "kiadasDatuma": "2002.01.03",
+      "oldalszam": "543",
+      "kiado": "Magyar Konyvklub",
+      "ISBN": "96310"
+    },
+    {
+      "cim": "6... 5... 4...",
+      "szerzo": "Boszormenyi Gyula",
+      "kiadasDatuma": "2008.02.05",
+      "oldalszam": "344",
+      "kiado": "Konyvolykepzo Kiado",
+      "ISBN": "989311"
+    },
+    {
+      "cim": "Breaking dawn",
+      "szerzo": "Stephenie Meyer",
+      "kiadasDatuma": "2010.03.28",
+      "oldalszam": "775",
+      "kiado": "Konyvmolykepzo Kiado",
+      "ISBN": "97896312"
+    },
+    {
+      "cim": "A kivalasztott",
+      "szerzo": "Suzanne Collins",
+      "kiadasDatuma": "2012.09.02",
+      "oldalszam": "429",
+      "kiado": "Agave konyvek",
+      "ISBN": "97896313"
+    },
+    {
+      "cim": "Angelfall",
+      "szerzo": "Susan EE",
+      "kiadasDatuma": "2018.11.21",
+      "oldalszam": "341",
+      "kiado": "Konyvmolykepzo Kiado",
+      "ISBN": "97896314"
+    },
+    {
+      "cim": "Selyem",
+      "szerzo": "Alessandro Baricco",
+      "kiadasDatuma": "2012.06.12",
+      "oldalszam": "98",
+      "kiado": "Helikon Kiado",
+      "ISBN": "97896315"
+    }
+  ]
+}
+
