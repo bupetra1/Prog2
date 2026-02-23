@@ -8,10 +8,7 @@ import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class Runner {
@@ -58,5 +55,14 @@ public class Runner {
                 return mar1.compareTo(mar2);
             }
         }).forEach(System.out::println);
+        autok.stream().filter(k -> k.getMarka() != null).sorted(Comparator.comparing(Auto::getMarka)).forEach(System.out::println);
+        ObjectMapper mapper = new ObjectMapper();
+        mapper.registerModule(new JavaTimeModule());
+        JsonNode root = mapper.readTree(new File("alma.txt"));
+        JsonNode arr = root.path("adatok");
+        ArrayList<Auto> lista = mapper.readValue(arr.traverse(), new TypeReference<ArrayList<Auto>>() {
+        });
+
+        }
     }
 }
